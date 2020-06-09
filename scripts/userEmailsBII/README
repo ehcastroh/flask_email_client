@@ -1,0 +1,10 @@
+To start Gunicorn flask server:
+gunicorn flaskapp:app
+Or more generally:
+gunicorn <name of python file (no .py extension)>:app
+
+Setup instructions:
+https://chrisdtran.com/2017/deploy-flask-on-ec2/
+Running gunicorn in multi-thread/multi-worker mode:
+https://medium.com/@dkhd/handling-multiple-requests-on-flask-60208eacc154
+https://stackoverflow.com/questions/35837786/how-to-run-flask-with-gunicorn-in-multithreaded-mode
