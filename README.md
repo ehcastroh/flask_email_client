@@ -4,7 +4,7 @@
      alt="Data-X Logo"
      align="center" 
      style="align:center" 
-     width="45%" />
+     width="70%" />
      
      
 # **DATA-X:** <br> FLASK -- EASY WEB DEVELOPMENT FOR RAPID PRODUCT DEPLOYMENT.
