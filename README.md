@@ -4,7 +4,7 @@
      alt="Data-X Logo"
      align="center" 
      style="align:center" 
-     width="70%" />
+     width="55%" />
      
      
 # **DATA-X:** <br> FLASK -- EASY WEB DEVELOPMENT FOR RAPID PRODUCT DEPLOYMENT.
@@ -84,7 +84,13 @@ The following notebooks were created for UC Berkeley's Learn2Launch program. The
     I) Prerequisite Knowledge and Requirements    
     II) 
 
-<hr style="border: 2px solid#0B0B0B;" />
+<img src="/content/datax_logos/DataX_icon_logo.png"
+     alt="Data-X Icon Logo"
+     align="center" 
+     style="align:center" 
+     width="15%" />
+
+<hr style="border: 2px solid#003262;" />
 
 
 
