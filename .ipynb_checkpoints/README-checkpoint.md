@@ -7,7 +7,7 @@
      width="55%" />
      
      
-# **DATA-X:** <br> FLASK -- EASY WEB DEVELOPMENT FOR RAPID PRODUCT DEPLOYMENT.
+# **DATA-X:** <br>  FLASK - EASY WEB DEVELOPMENT FOR RAPID PRODUCT DEPLOYMENT.
 
 <br>
 
@@ -15,31 +15,28 @@
 <br>
 
 
-**Author list:** Elias Castro Hernandez (**ehcastroh** is my handle for everything...linkedin, github, etc.)
 
+**Author List:** [Elias Castro Hernandez](https://www.linkedin.com/in/ehcastroh/) **<-- replace link with one on SCET or Data-X site.**
 
-**About (TL/DR):** The following collection of notebooks introduces developers and data scientists to web development using Flask. Flask is one of many available web server gateway interface (WSGI) tools that enable rapid and scalable websites and apps with a relatively accessible learning curve. The barebones capacity of Flask is particularly valuable when prototyping and iterating upon products, services, and machine learning applications. This collection of notebooks is part of [UC Berkeley's Data-X](https://data-x.blog/) curriculum.
+**About (TL/DR):** The following collection of notebooks introduces developers and data scientists to web development using Flask. Flask is one of many available web server gateway interface (WSGI) tools that enable rapid and scalable websites and apps with a relatively accessible learning curve. The barebones capacity of Flask is particularly valuable when prototyping and iterating upon products, services, and machine learning applications.
 
-**Learning Goal(s):** Gain an understanding of how to utilize available libraries and packages to quickly build products and services -- in real-life settings, using web-first methodology, driven by data, and end-to-end. In particular, learn how to build a bare-bones flask environment for handling Email automation tasks.
+**Learning Goal(s):** Gain an understanding of how to utilize available libraries and packages to quickly build products and services -- in real-life settings, using web-first methodology, driven by data, and end-to-end. In particular, learn how to build a bare-bones flask environment that can then be repurosed to (1) handle email automation tasks, (2) deploy ML models in real-time, and (3) create engaging dashboards using D3.js.
 
-**Target User:** Data scientists, applied machine learning engineers, and developers
+**Associated Materials:** None
 
 **Prerequisite Knowledge:** (1) Python, (2) HTML, and (3) CSS
 
+**Target User:** Data scientists, applied machine learning engineers, and developers
+
 **Copyright:** Content curation has been used to expediate the creation of the following learning materials. Credit and copyright belong to the content creators used in facilitating this content. Please support the creators of the resources used by frequenting their sites, and social media.
+
 
 <hr style="border: 4px solid#003262;" />
 
 ### **CONTENT**
 
-The following notebooks were created for UC Berkeley's Learn2Launch program. They are intended to provide a rapid introduction to common python visualization libraries, as well as introduce the user to more advanced visualization libraries and engines. The notebooks are structured into 3 parts.
-
-  - Part_00_START_HERE_Flask_Email -- Serves as an overview of how to use the materials and what the goals of the notebooks are.
-  - Part_01_Setting_up_Flask -- Fundamental overview of creating a basic Flask website.
-  - Part_02_Setting_up_Email_Client -- Covers the process of linking PostgresSQL to Python libraries to create an email client.
-  - Part_03_Deploy_Automated_Email -- Covers the details of quickly hosting Flask site using Heroku.
-
-
+  - ID_02345_Setting_up_Flask -- Fundamental overview of creating a Flask website.
+  - homeworks/   -- Contains several exercises to help you master the material.
 
 #### **I. SETTING UP A FLASK ENVIRONMENT (PART 1 OF 3).**
 
@@ -49,13 +46,10 @@ The following notebooks were created for UC Berkeley's Learn2Launch program. The
      style="align:center" 
      width="30%"/>
      
-    1) Flask Setup and Workflow
-    2) Structure, Design, Behaviors, and Storage
-    3) Wrap-Up and Next Steps
-    I) Prerequisite Knowledge and Requirements    
-    II) Quickstart Flask: Hello World
-    
-#### **II. SETTING UP AN EMAIL CLIENT (PART 2 OF 3).**
+    1) FLASK SETUP AND WORKFLOW    
+    2) BASIC FLASK UP-AND-RUNNING
+
+#### **II. DESIGN BEHAVIORS AND STORAGE (PART 2 OF 3).**
 
 <img src="data/story_images/grammar_of_graphics_1_3stack.png"
      alt="SMTPLIB Email Client"
@@ -63,26 +57,31 @@ The following notebooks were created for UC Berkeley's Learn2Launch program. The
      style="align:center" 
      width="40%"/>
      
-    1) 
-    2) 
-    3) 
-    I) Prerequisite Knowledge and Requirements    
-    II) 
+    1) SET UP NESTED DIRECTORIES AND FILES
+    2) SET BASIC HTML & CSS
+    3) LINK FLASK TO SQLITE
+    4) (OPTIONAL): IMPLEMENT MYSQL DATABASE AND SERVER ENVIRONMENT
     
     
-#### **III. DEPLOY AUTOMATED EMAIL CLIENT (PART 3 OF 3).**
+#### **III. WRAP UP AND NEXT STEPS (PART 3 OF 3).**
 <img src="data/story_images/zero-coding_visualizations.png"
      alt="Putting Everything Together"
      align="center" 
      style="align:center" 
      width="45%"/>
 
-    1) 
-    2) 
-    3) 
-    4) 
-    I) Prerequisite Knowledge and Requirements    
-    II) 
+    Now that you've learned how to deploy a Flask environment,there is much more than can be done using Flask. 
+    Visit the [Data-X website](https://datax.berkeley.edu/) to learn how to link Flask to other services, or use the following links to curated topics of interest:
+
+> [**SENDING EMAIL WITH FLASK + SMTPLIB: url needed**]() Capitalizes on Flask's barebones architecture to create a light weight email client using SMTPLIB
+
+> [**INTRODUCTION TO AWS + FLASK: url needed**]() Shows you how to deploy your Flask environment in an elastic server
+
+> [**DASHBOARDS USING D3.js + FLASK: url needed**]() Covers how to deploy a dashboard Flask website with dynamic plots using D3.js
+
+> [**PRODUCTIZED MACHINE LEARNING MODELS USING FLASK: url needed**]() Introduces how to deploy machine learning models that are accessible via the web
+
+
 
 <img src="/content/datax_logos/DataX_icon_logo.png"
      alt="Data-X Icon Logo"
