@@ -1,10 +1,10 @@
 <hr style="border: 8px solid#003262;" />
 
-<img src="/content/datax_logos/DataX_blue_logo.png"
+<img src="/content/datax_logos/DataX_blue_wide_logo.png"
      alt="Data-X Logo"
      align="center" 
      style="align:center" 
-     width="55%" />
+     width="100%" />
      
      
 # **DATA-X:** <br>  FLASK - EASY WEB DEVELOPMENT FOR RAPID PRODUCT DEPLOYMENT.
@@ -23,6 +23,8 @@
 **Learning Goal(s):** Gain an understanding of how to utilize available libraries and packages to quickly build products and services -- in real-life settings, using web-first methodology, driven by data, and end-to-end. In particular, learn how to build a bare-bones flask environment that can then be repurosed to (1) handle email automation tasks, (2) deploy ML models in real-time, and (3) create engaging dashboards using D3.js.
 
 **Associated Materials:** None
+
+**Keywords (Tags):** data-x, flask, flask-sqlalchemy, flask-web, flask-application, website, webapp, web-app 
 
 **Prerequisite Knowledge:** (1) Python, (2) HTML, and (3) CSS
 
@@ -83,11 +85,11 @@
 
 
 
-<img src="/content/datax_logos/DataX_icon_logo.png"
+<img src="/content/datax_logos/DataX_icon_wide_logo.png"
      alt="Data-X Icon Logo"
      align="center" 
      style="align:center" 
-     width="15%" />
+     width="100%" />
 
 <hr style="border: 2px solid#003262;" />
 
