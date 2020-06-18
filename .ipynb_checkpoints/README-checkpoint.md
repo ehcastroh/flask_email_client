@@ -7,7 +7,7 @@
      width="100%" />
      
      
-# **DATA-X:** <br>  FLASK - EASY WEB DEVELOPMENT FOR RAPID PRODUCT DEPLOYMENT.
+# **DATA-X:** <br>  m320 - FLASK - EASY WEB DEVELOPMENT FOR RAPID PRODUCT DEPLOYMENT.
 
 <br>
 
@@ -37,7 +37,7 @@
 
 ### **CONTENT**
 
-  - ID_02345_Setting_up_Flask -- Fundamental overview of creating a Flask website.
+  - m320_Setting_up_Flask -- Fundamental overview of creating a Flask website.
   - homeworks/   -- Contains several exercises to help you master the material.
 
 #### **I. SETTING UP A FLASK ENVIRONMENT.**
