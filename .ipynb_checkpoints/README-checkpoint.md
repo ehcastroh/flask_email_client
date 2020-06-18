@@ -46,7 +46,7 @@
      alt="Simple Archtecture"
      align="center" 
      style="align:center" 
-     width="25%"/>
+     width="40%"/>
      
     1) FLASK SETUP AND WORKFLOW    
     2) BASIC FLASK UP-AND-RUNNING
@@ -57,7 +57,7 @@
      alt="Simple Archtecture"
      align="center" 
      style="align:center" 
-     width="25%"/>
+     width="40%"/>
      
     1) SET UP NESTED DIRECTORIES AND FILES
     2) SET BASIC HTML & CSS
