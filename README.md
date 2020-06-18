@@ -70,13 +70,13 @@
 
 Now that you've learned how to deploy a Flask environment,there is much more than can be done using Flask. Visit the [Data-X website](https://datax.berkeley.edu/) to learn how to link Flask to other services, or use the following links to curated topics of interest:
 
-> [**SENDING EMAIL WITH FLASK + SMTPLIB: url needed**]() Capitalizes on Flask's barebones architecture to create a light weight email client using SMTPLIB
+> [**Emails With Flask + SMTPLIB: url needed**]() Capitalizes on Flask's barebones architecture to create a light weight email client using SMTPLIB
 
-> [**INTRODUCTION TO AWS + FLASK: url needed**]() Shows you how to deploy your Flask environment in an elastic server
+> [**Linking AWS With FLASK: url needed**]() Shows you how to deploy your Flask environment in an elastic server
 
-> [**DASHBOARDS USING D3.js + FLASK: url needed**]() Covers how to deploy a dashboard Flask website with dynamic plots using D3.js
+> [**Dashboards Using D3.js + Flask: url needed**]() Covers how to deploy a dashboard Flask website with dynamic plots using D3.js
 
-> [**PRODUCTIZED MACHINE LEARNING MODELS USING FLASK: url needed**]() Introduces how to deploy machine learning models that are accessible via the web
+> [**Productionized Machine Learning Models Using Flask: : url needed**]() Introduces how to deploy machine learning models that are accessible via the web
 
 
 
