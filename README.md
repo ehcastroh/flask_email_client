@@ -40,7 +40,7 @@
   - m320_Setting_up_Flask -- Fundamental overview of creating a Flask website.
   - homeworks/   -- Contains several exercises to help you master the material.
 
-#### **I. SETTING UP A FLASK ENVIRONMENT.**
+#### **I. SETTING UP A FLASK ENVIRONMENT**
 
 <img src="assets/content/flask_1_schema_venv.png"
      alt="Simple Archtecture"
@@ -51,7 +51,7 @@
     1) FLASK SETUP AND WORKFLOW    
     2) BASIC FLASK UP-AND-RUNNING
 
-#### **II. DESIGN, BEHAVIORS, AND STORAGE.**
+#### **II. DESIGN, BEHAVIORS, AND STORAGE**
 
 <img src="assets/content/flask_6_schema_full.png"
      alt="Simple Archtecture"
@@ -65,7 +65,7 @@
     4) (OPTIONAL): IMPLEMENT MYSQL DATABASE AND SERVER ENVIRONMENT
     
     
-#### **III. WRAP UP AND NEXT STEPS.**
+#### **III. WRAP UP AND NEXT STEPS**
 
 
 Now that you've learned how to deploy a Flask environment,there is much more than can be done using Flask. Visit the [Data-X website](https://datax.berkeley.edu/) to learn how to link Flask to other services, or use the following links to curated topics of interest:
