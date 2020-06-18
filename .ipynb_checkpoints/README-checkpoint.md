@@ -1,6 +1,6 @@
 <hr style="border: 8px solid#003262;" />
 
-<img src="/content/datax_logos/DataX_blue_wide_logo.png"
+<img src="/assets/content/datax_logos/DataX_blue_wide_logo.png"
      alt="Data-X Logo"
      align="center" 
      style="align:center" 
@@ -42,22 +42,22 @@
 
 #### **I. SETTING UP A FLASK ENVIRONMENT (PART 1 OF 3).**
 
-<img src="data/story_images/Smith_Data_Levels_Numerical.png"
+<img src="assets/content/flask_1_schema_venv.png"
      alt="Simple Archtecture"
      align="center" 
      style="align:center" 
-     width="30%"/>
+     width="25%"/>
      
     1) FLASK SETUP AND WORKFLOW    
     2) BASIC FLASK UP-AND-RUNNING
 
-#### **II. DESIGN BEHAVIORS AND STORAGE (PART 2 OF 3).**
+#### **II. DESIGN, BEHAVIORS, AND STORAGE (PART 2 OF 3).**
 
-<img src="data/story_images/grammar_of_graphics_1_3stack.png"
-     alt="SMTPLIB Email Client"
+<img src="assets/content/flask_6_schema_full.png"
+     alt="Simple Archtecture"
      align="center" 
      style="align:center" 
-     width="40%"/>
+     width="25%"/>
      
     1) SET UP NESTED DIRECTORIES AND FILES
     2) SET BASIC HTML & CSS
@@ -66,11 +66,7 @@
     
     
 #### **III. WRAP UP AND NEXT STEPS (PART 3 OF 3).**
-<img src="data/story_images/zero-coding_visualizations.png"
-     alt="Putting Everything Together"
-     align="center" 
-     style="align:center" 
-     width="45%"/>
+
 
     Now that you've learned how to deploy a Flask environment,there is much more than can be done using Flask. 
     Visit the [Data-X website](https://datax.berkeley.edu/) to learn how to link Flask to other services, or use the following links to curated topics of interest:
@@ -85,7 +81,7 @@
 
 
 
-<img src="/content/datax_logos/DataX_icon_wide_logo.png"
+<img src="assets/content/datax_logos/DataX_icon_wide_logo.png"
      alt="Data-X Icon Logo"
      align="center" 
      style="align:center" 
