@@ -7,7 +7,7 @@
      width="100%" />
      
      
-# **DATA-X:** <br>  m320 - FLASK - EASY WEB DEVELOPMENT FOR RAPID PRODUCT DEPLOYMENT.
+# **DATA-X:** <br>  m320 - FLASK - EASY WEB DEVELOPMENT FOR RAPID DEPLOYMENT.
 
 <br>
 
