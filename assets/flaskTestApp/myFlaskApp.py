@@ -28,7 +28,7 @@ class userEmail(db.Model):
 
 	# funciton to return notice of data entry
 	def __repr__(self):
-		# string formating converts the self.id value to a string using repr()
+		# string formating converts the self.email value to a string using repr()
 		return '<userEmail {}>'.format(self.email)
 
 

@@ -42,7 +42,7 @@
 
 #### **I. SETTING UP A FLASK ENVIRONMENT**
 
-<img src="assets/content/flask_1_schema_venv.png"
+<img src="assets/content/images/flask_1_schema_venv.png"
      alt="Simple Archtecture"
      align="center" 
      style="align:center" 
@@ -53,7 +53,7 @@
 
 #### **II. DESIGN, BEHAVIORS, AND STORAGE**
 
-<img src="assets/content/flask_6_schema_full.png"
+<img src="assets/content/images/flask_6_schema_full.png"
      alt="Simple Archtecture"
      align="center" 
      style="align:center" 
