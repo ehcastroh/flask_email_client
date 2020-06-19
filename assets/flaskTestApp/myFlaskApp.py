@@ -14,11 +14,13 @@ db = SQLAlchemy(app)
 
 
 # create class
-class emailData(db.Model):
+class userEmail(db.Model):
 	# create visit id
 	id = db.Column(db.Integer, primary_key=True)
+	# request user name
+	username = db.Column(db.String(64), index=True, unique=True)
 	# set max-characters to 200 and require that field be completed
-	email = db.Column(db.String(200), nullable = False)
+	email = db.Column(db.String(200), nullable = False, unique=True)
 	# nonaccessible column to keep track of submissions
 	completed = db.Column(db.Integer, default = 0)
 	# track date of email submission
@@ -27,7 +29,7 @@ class emailData(db.Model):
 	# funciton to return notice of data entry
 	def __repr__(self):
 		# string formating converts the self.id value to a string using repr()
-		return '<Task %r>' % self.id
+		return '<userEmail {}>'.format(self.email)
 
 
 ## routing binds urls to functions via decorators 
