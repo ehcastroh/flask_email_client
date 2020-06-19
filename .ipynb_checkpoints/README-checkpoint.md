@@ -35,14 +35,20 @@
 
 <hr style="border: 4px solid#003262;" />
 
-### **CONTENT**
+<img src="assets/content/images/flask-03.png"
+     alt="Simple Archtecture"
+     align="center" 
+     style="align:center" 
+     width="40%"/>
+     
+### **CONTENT**   
 
   - m320_Setting_up_Flask -- Fundamental overview of creating a Flask website.
   - homeworks/   -- Contains several exercises to help you master the material.
 
 #### **I. SETTING UP A FLASK ENVIRONMENT**
 
-<img src="assets/content/images/flask_1_schema_venv.png"
+<img src="assets/content/images/flaskintroscreens_updated-05.png"
      alt="Simple Archtecture"
      align="center" 
      style="align:center" 
@@ -53,7 +59,7 @@
 
 #### **II. DESIGN, BEHAVIORS, AND STORAGE**
 
-<img src="assets/content/images/flask_6_schema_full.png"
+<img src="assets/content/images/flaskintroscreens_updated-06_09.png"
      alt="Simple Archtecture"
      align="center" 
      style="align:center" 
