@@ -20,7 +20,7 @@
 
 **About (TL/DR):** The following collection of notebooks introduces developers and data scientists to web development using Flask. Flask is one of many available web server gateway interface (WSGI) tools that enable rapid and scalable websites and apps with a relatively accessible learning curve. The barebones capacity of Flask is particularly valuable when prototyping and iterating upon products, services, and machine learning applications.
 
-**Learning Goal(s):** Gain an understanding of how to utilize available libraries and packages to quickly build products and services -- in real-life settings, using web-first methodology, driven by data, and end-to-end. In particular, learn how to build a bare-bones flask environment that can then be repurosed to (1) handle email automation tasks, (2) deploy ML models in real-time, and (3) create engaging dashboards using D3.js.
+**Learning Goal(s):** Gain an understanding of how to utilize available libraries and packages to quickly build products and services -- in real-life settings, using web-first methodology, driven by data, and end-to-end. In particular, learn how to build a bare-bones flask environment that can then be repurposed to (1) handle email automation tasks, (2) deploy ML models in real-time, and (3) create engaging dashboards using D3.js.
 
 **Associated Materials:** None
 
@@ -30,7 +30,7 @@
 
 **Target User:** Data scientists, applied machine learning engineers, and developers
 
-**Copyright:** Content curation has been used to expediate the creation of the following learning materials. Credit and copyright belong to the content creators used in facilitating this content. Please support the creators of the resources used by frequenting their sites, and social media.
+**Copyright:** Content curation has been used to expedite the creation of the following learning materials. Credit and copyright belong to the content creators used in facilitating this content. Please support the creators of the resources used by frequenting their sites, and social media.
 
 
 <hr style="border: 4px solid#003262;" />
@@ -76,7 +76,7 @@
 
 Now that you've learned how to deploy a Flask environment,there is much more than can be done using Flask. Visit the [Data-X website](https://datax.berkeley.edu/) to learn how to link Flask to other services, or use the following links to curated topics of interest:
 
-> [**Emails With Flask + SMTPLIB: url needed**]() Capitalizes on Flask's barebones architecture to create a light weight email client using SMTPLIB
+> [**Emails With Flask + SMTPLIB: url needed**]() Capitalizes on Flask's barebones architecture to create a lightweight email client using SMTPLIB
 
 > [**Linking AWS With FLASK: url needed**]() Shows you how to deploy your Flask environment in an elastic server
 
