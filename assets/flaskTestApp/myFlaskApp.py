@@ -21,14 +21,14 @@ class userEmail(db.Model):
 	username = db.Column(db.String(64), index=True, unique=True)
 	# set max-characters to 200 and require that field be completed
 	email = db.Column(db.String(200), nullable = False, unique=True)
-	# nonaccessible column to keep track of submissions
+	# inaccessible column to keep track of submissions
 	completed = db.Column(db.Integer, default = 0)
 	# track date of email submission
 	date_submitted = db.Column(db.DateTime, default=datetime.utcnow)
 
-	# funciton to return notice of data entry
+	# function to return notice of data entry
 	def __repr__(self):
-		# string formating converts the self.email value to a string using repr()
+		# string formatting converts the self.id value to a string using repr()
 		return '<userEmail {}>'.format(self.email)
 
 
@@ -43,7 +43,8 @@ def home():
 
 # if running in stand alone, run the application
 if __name__ == "__main__":
-	# enable debbuging
+	# enable debugging
 	app.run(debug=True)
 ## -------------------------------------------------------------------- ##
+
 
