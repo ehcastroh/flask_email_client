@@ -48,13 +48,15 @@
 
 #### **I. SETTING UP A FLASK ENVIRONMENT**
      
-    1) FLASK SETUP AND WORKFLOW    
-    2) BASIC FLASK UP-AND-RUNNING
+    1) FLASK SETUP AND WORKFLOW
  <img src="assets/content/images/greens-05.png"
      alt="set_venv"
      align="center" 
      style="align:center" 
      width="30%"/>
+     
+    2) BASIC FLASK UP-AND-RUNNING
+
 
 #### **II. DESIGN, BEHAVIORS, AND STORAGE**
 
