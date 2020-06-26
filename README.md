@@ -16,7 +16,7 @@
 
 
 
-**Author List (in no particular order):** [Elias Castro Hernandez](https://www.linkedin.com/in/ehcastroh/) and [Debbie Yuen]() **<-- replace link with one on SCET or Data-X site.**
+**Author List (in no particular order):** [Ikhlaq Sidhu](https://ikhlaq-sidhu.com/), [Elias Castro Hernandez](https://www.linkedin.com/in/ehcastroh/), and [Debbie Yuen](http://www.debbiecyuen.me/) 
 
 **About (TL/DR):** The following collection of notebooks introduces developers and data scientists to web development using Flask. Flask is one of many available web server gateway interface (WSGI) tools that enable rapid and scalable websites and apps with a relatively accessible learning curve. The barebones capacity of Flask is particularly valuable when prototyping and iterating upon products, services, and machine learning applications.
 
@@ -35,8 +35,8 @@
 
 <hr style="border: 4px solid#003262;" />
 
-<img src="assets/content/images/flask-03.png"
-     alt="Simple Archtecture"
+<img src="assets/content/images/greens-flaskthumbnail.png"
+     alt="flask_thumbnail"
      align="center" 
      style="align:center" 
      width="40%"/>
@@ -44,26 +44,34 @@
 ### **CONTENT**   
 
   - m320_Setting_up_Flask -- Fundamental overview of creating a Flask website.
-  - homeworks/   -- Contains several exercises to help you master the material.
+  - assets/homeworks/   -- Contains several exercises to help you master the material.
 
 #### **I. SETTING UP A FLASK ENVIRONMENT**
 
-<img src="assets/content/images/flaskintroscreens_updated-05.png"
-     alt="Simple Archtecture"
+<img src="assets/content/images/greens-05.png"
+     alt="set_venv"
      align="center" 
      style="align:center" 
-     width="40%"/>
+     width="30%"/>
      
     1) FLASK SETUP AND WORKFLOW    
     2) BASIC FLASK UP-AND-RUNNING
 
 #### **II. DESIGN, BEHAVIORS, AND STORAGE**
 
-<img src="assets/content/images/flaskintroscreens_updated-06_09.png"
-     alt="Simple Archtecture"
+<img src="assets/content/images/greens-06.png"
+     alt="Simple Architecture"
      align="center" 
      style="align:center" 
-     width="40%"/>
+     width="30%"/><img src="assets/content/images/greens-07.png"
+     alt="Simple Architecture"
+     align="center" 
+     style="align:center" 
+     width="30%"/><img src="assets/content/images/greens-08.png"
+     alt="Simple Architecture"
+     align="center" 
+     style="align:center" 
+     width="30%"/>
      
     1) SET UP NESTED DIRECTORIES AND FILES
     2) SET BASIC HTML & CSS
