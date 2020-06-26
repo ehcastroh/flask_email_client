@@ -35,10 +35,11 @@
 
 <hr style="border: 4px solid#003262;" />
 
-<a href="https://youtu.be/L-7o7dcbQWo" align="center">
-    <img src="assets/content/images/greens-flaskthumbnail.png" align="center" width="40%" padding="10px"/><br>
-    Click to Watch  
-<a/>
+<img src="assets/content/images/greens-flaskthumbnail.png"
+     alt="flask_thumbnail"
+     align="center" 
+     style="align:center" 
+     width="50%"/>
      
 ### **CONTENT**   
 
@@ -46,15 +47,14 @@
   - assets/homeworks/   -- Contains several exercises to help you master the material.
 
 #### **I. SETTING UP A FLASK ENVIRONMENT**
-
-<img src="assets/content/images/greens-05.png"
+     
+    1) FLASK SETUP AND WORKFLOW    
+    2) BASIC FLASK UP-AND-RUNNING
+ <img src="assets/content/images/greens-05.png"
      alt="set_venv"
      align="center" 
      style="align:center" 
      width="30%"/>
-     
-    1) FLASK SETUP AND WORKFLOW    
-    2) BASIC FLASK UP-AND-RUNNING
 
 #### **II. DESIGN, BEHAVIORS, AND STORAGE**
 
@@ -62,18 +62,23 @@
      alt="Simple Architecture"
      align="center" 
      style="align:center" 
-     width="30%"/><img src="assets/content/images/greens-07.png"
-     alt="Simple Architecture"
-     align="center" 
-     style="align:center" 
-     width="30%"/><img src="assets/content/images/greens-08.png"
+     width="30%"/>
+     
+    1) SET UP NESTED DIRECTORIES AND FILES
+<img src="assets/content/images/greens-07.png"
      alt="Simple Architecture"
      align="center" 
      style="align:center" 
      width="30%"/>
      
-    1) SET UP NESTED DIRECTORIES AND FILES
     2) SET BASIC HTML & CSS
+    
+<img src="assets/content/images/greens-08.png"
+     alt="Simple Architecture"
+     align="center" 
+     style="align:center" 
+     width="30%"/>
+     
     3) LINK FLASK TO SQLITE
     4) (OPTIONAL): IMPLEMENT MYSQL DATABASE AND SERVER ENVIRONMENT
     
