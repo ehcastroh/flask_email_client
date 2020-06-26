@@ -35,11 +35,10 @@
 
 <hr style="border: 4px solid#003262;" />
 
-<img src="assets/content/images/greens-flaskthumbnail.png"
-     alt="flask_thumbnail"
-     align="center" 
-     style="align:center" 
-     width="40%"/>
+<a href="https://youtu.be/L-7o7dcbQWo" align="center">
+    <img src="assets/content/images/greens-flaskthumbnail.png" align="center" width="40%" padding="10px"/><br>
+    Click to Watch  
+<a/>
      
 ### **CONTENT**   
 
