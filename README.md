@@ -24,7 +24,7 @@
 
 **Associated Materials:** None
 
-**Keywords (Tags):** data-x, flask, flask-sqlalchemy, flask-web, flask-application, website, webapp, web-app 
+**Keywords (Tags):** flask, flask-sqlalchemy, flask-web, flask-application, website, webapp, web-app, data-x, uc-berkeley-engineering 
 
 **Prerequisite Knowledge:** (1) Python, (2) HTML, and (3) CSS
 
